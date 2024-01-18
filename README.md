@@ -1,1 +1,1 @@
-Gemini App To Retrieve SQL Data
+## Gemini App To Retrieve SQL Data
